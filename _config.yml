@@ -3,8 +3,8 @@ description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://www.varungarg.me
 baseurl: ""
-paginate_path: "blog/page:num/"
-permalink: blog/:title/
+paginate_path: "blogs/page:num/"
+permalink: blogs/:title/
 
 markdown: kramdown
 highlighter: rouge
