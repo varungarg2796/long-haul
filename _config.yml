@@ -1,7 +1,7 @@
-title: Long Haul
+title: Varun Garg
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://www.varungarg.me
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: varungarg2796
+   twitter: varungarg2796
+   facebook: varungarg2796
+   email: varun.garg1@ucdconnect.ie
 
 google_analytics: "UA-58263416-1"
