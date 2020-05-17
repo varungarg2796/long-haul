@@ -1,5 +1,20 @@
-# My First Post
+# Winning
+
+Jim Rohn famously quoted that “You are the average of the 5 people you spend the most time with” . In layman terms, this quote suggests that the five people you spend the most time with , shape who you are. It borrows from the law of averages which is the theory that “the result of any given situation will be the average of all outcomes”. We might interact with many people, but the few who are closest to us have the greatest impact on our way of thinking and decisions. And well you may be wondering at the start of my speech that well if Shrey does it then why does he needs to do the same then well I hope you got your answer! That is because he has had an impact on how I think as I spend a lot of time with him.
+
+Let me take you to the early 1980s. Sydney was a pelican’s paradise back then. Pelicans are birds with long beaks are generally found near the coastal areas.  Sydney was a site of several fish factories. Pelicans loved this city because fisherman’s cleaned their catch, they would dispose the scraps of fishes and all the pelicans would feast on that. As a result, the pelicans were well fed without having to break a sweat. Now you may think that what is the harm in that? Well Pelicans are one of the best fish hunters. These birds fly in a groups above the sea and when they find fish, they immediately dive into the water and scoop up their prey in their long beak.
+
+But as time went by, the fish along the Sydney coast were exhausted and as a result, one by one, all the factories closed. After the shutting down of the fish factories, tthere came a lot of trouble. Now the Pelicans in syndey had never gone fishing in a long while and hence had to grown up lazy and stout. The stress free meals had vanished and they started to starve and die. Preservationist of the area were sent into a tizzy. They had a big challenge of ensuring the survival of Pelicans. And to solve his problem, they brought in pelicans from another area. The new Pelicans which were being brought in, used to go fly and fish for their meals every day. They mixed them up with the local pelicans. And in no time, the old Pelicans started to go out flying to fish their food for themseleves.
+THE BIGGEST MESSAGE THAT I CAN DEDUCT FROM THIS STORY IS THAT TO BE A WINNER, YOU NEED TO SURROUND YOURSELF WITH WINNERS.
+
+I believe I'm someone who took longer than most people to understand this concept. I clung onto relationships with people far too long. All of them were great people, they are people that I respect like, people whom i really like.  Yet, I always knew these are not the people that are dying to be incredibly successful, incredibly happy, and putting their every last effort to achieve their dream.
+
+Do you want to be a winner? Then START SURROUNDING YOURSELF WITH WINNERS
+
+It doesn't matter how smart you are. It doesn't matter how talented you are, which skills you have, where you are born, or which family you came from. All that counts if you want to be successful in life is the people you surround yourself with.
 
 
-HEY THERE
+
+Don't be afraid to lose some friends or anything else if that means you start surrounding yourself with the right people. Instead of becoming the average of some average people, become the average of the best.
+
 

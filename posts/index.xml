@@ -4,11 +4,13 @@
         <link>http://example.org/posts/</link>
         <description>All Posts | Varun Garg</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 May 2020 22:20:44 &#43;0100</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>My First Post</title>
+    <title>Winning</title>
     <link>http://example.org/my-first-post/</link>
     <pubDate>Sun, 17 May 2020 22:20:44 &#43;0100</pubDate>
     <author>Author</author>
     <guid>http://example.org/my-first-post/</guid>
-    <description><![CDATA[HEY THERE]]></description>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/feature.jpg" referrerpolicy="no-referrer">
+            </div>Jim Rohn famously quoted that “You are the average of the 5 people you spend the most time with” . In layman terms, this quote suggests that the five people you spend the most time with , shape who you are. It borrows from the law of averages which is the theory that “the result of any given situation will be the average of all outcomes”. We might interact with many people, but the few who are closest to us have the greatest impact on our way of thinking and decisions.]]></description>
 </item></channel>
 </rss>

@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Varun Garg</title>
-        <link>http://example.org/</link>
-        <description>Software developer and a sports enthusiast!</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 May 2020 22:20:44 &#43;0100</lastBuildDate><atom:link href="http://example.org/" rel="self" type="application/rss+xml" /><item>
+        <title>Life Lessons - Category - Varun Garg</title>
+        <link>http://example.org/categories/life-lessons/</link>
+        <description>Life Lessons - Category - Varun Garg</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 17 May 2020 22:20:44 &#43;0100</lastBuildDate><atom:link href="http://example.org/categories/life-lessons/" rel="self" type="application/rss+xml" /><item>
     <title>Winning</title>
     <link>http://example.org/my-first-post/</link>
     <pubDate>Sun, 17 May 2020 22:20:44 &#43;0100</pubDate>
